@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://raxmice.github.io/csb-bgrl9b/static/js/main.06ebcdcf.chunk.js",
+    "main.js.map": "https://raxmice.github.io/csb-bgrl9b/static/js/main.06ebcdcf.chunk.js.map",
+    "runtime-main.js": "https://raxmice.github.io/csb-bgrl9b/static/js/runtime-main.06b8b2ee.js",
+    "runtime-main.js.map": "https://raxmice.github.io/csb-bgrl9b/static/js/runtime-main.06b8b2ee.js.map",
+    "static/js/2.8b5d0aa3.chunk.js": "https://raxmice.github.io/csb-bgrl9b/static/js/2.8b5d0aa3.chunk.js",
+    "static/js/2.8b5d0aa3.chunk.js.map": "https://raxmice.github.io/csb-bgrl9b/static/js/2.8b5d0aa3.chunk.js.map",
+    "index.html": "https://raxmice.github.io/csb-bgrl9b/index.html",
+    "static/js/2.8b5d0aa3.chunk.js.LICENSE.txt": "https://raxmice.github.io/csb-bgrl9b/static/js/2.8b5d0aa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b8b2ee.js",
+    "static/js/2.8b5d0aa3.chunk.js",
+    "static/js/main.06ebcdcf.chunk.js"
+  ]
+}
